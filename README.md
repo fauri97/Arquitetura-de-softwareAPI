@@ -9,11 +9,7 @@ Endpoint 3: /savePerson - POST - create a person
 Person structure
 
   id
-  
   name
-  
   email
-  
   telephone
-  
   birth_date
