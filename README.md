@@ -7,8 +7,13 @@ Endpoint 2: /getAPerson/id - GET - retrieve 1 person
 Endpoint 3: /savePerson - POST - create a person
 
 Person structure
+
   id
+  
   name
+  
   email
+  
   telephone
+  
   birth_date
